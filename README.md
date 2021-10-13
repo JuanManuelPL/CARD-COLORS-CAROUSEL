@@ -10,7 +10,7 @@ _Componente de selección de color para imágenes con diseño responsivo adaptab
 
 ---
 ⌨️ con ❤️ por [JuanManuelPL](https://github.com/JuanManuelPL) 
-⌨️ Linkedin ❤️ [Juan Manuel Pérez Luciano](https://www.linkedin.com/in/juan-manuel-pérez-luciano-068120141/) 
+⌨️ LinkedIn ❤️ [Juan Manuel Pérez Luciano](https://www.linkedin.com/in/juan-manuel-pérez-luciano-068120141/) 
 
 ![preview](public/preview1.png)
 ![preview](public/preview2.png)
